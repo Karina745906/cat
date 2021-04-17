@@ -1,0 +1,179 @@
+body{
+background:rgb(255, 145, 0);
+}
+
+header {
+  width: 100%;
+  height: 8%;
+  background: black;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-weight: bolder;b
+  font-family: monospace;
+  font-size: 19px;
+  position: fixed;
+  border: 3px solid white;
+  left: 0px;
+  top: 0px;
+  z-index: 1px;
+}
+a, button {
+  text-decoration: none;
+  background: black;
+  color:rgb(214, 1, 1);
+  padding: 12px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 19,5px;
+}
+nav ul {
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+}
+nav {
+  width: 70%;
+  background: black;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+nav button {
+  margin-top: 10px;
+}
+h2 {
+  position: relative;
+  top: 100px;
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: 30px;
+  left: 50px;
+}
+.naz {
+  position: relative;
+  top: 110px;
+  font-size: 47px;
+  font-weight: bolder;
+  font-family: monospace;
+  left: 50px;
+}
+.credctva p{
+  position: relative;
+  bottom: 90px;
+  font-size: 25px;
+  font-weight: bolder;
+  left: 50px;
+  font-family: monospace;
+}
+.credctva{
+  position: relative;
+  top:200px;
+}
+.credctva li{
+  font-size: 22px;
+  font-weight: bold;
+  position: relative;
+  left: 50px;
+  margin-top: 15px;
+}
+.tab {
+  position: relative;
+  left: 740px;
+  border: 2px solid black;
+  font-size: 25px;
+  bottom: 70px;
+}
+.tab td{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right:40px;
+}
+.cena p{
+  position: relative;
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: bolder;
+  left: 740px;
+  bottom: 115px;
+}
+.cena button{
+  position: relative;
+  padding-left: 185px;
+  padding-right: 185px;
+  left: 740px;
+  bottom: 30px;
+}
+.creddcnva{
+  position: relative;
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: monospace;
+left: 50px;
+bottom: 90px;
+  }
+  .btext1{
+    position: relative;
+    font-size: 16px;
+    text-align: left;
+    width: 560px;
+    left: 50px;
+    bottom: 50px;
+    font-weight: bold;
+  }
+  .btext2 {
+    position: relative;
+    font-size: 16px;
+    text-align: left;
+    width: 560px;
+    bottom: 197px;
+    font-weight: bold;
+    left: 730px;
+  }
+  .niz {
+    display: flex;
+    justify-content: center;
+    background:rgb(241, 66, 11);
+    color: black;
+    height: 300px;
+    margin-top: 70px;
+  }
+  .center ul {
+    padding: 0px;
+  }
+
+  footer ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+  }
+  footer a {
+    background: none;
+  }
+  footer a:hover {
+    background: none;
+  }
+  .niz a {
+    height: 30px;
+    font-size: 20px;
+  }
+  .niz p {
+    font-size: 35px;
+    font-family: monospace;
+  }
+  footer {
+    background-color: rgb(255, 168, 0);
+  padding-top: 25px;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+  }
+  .footerContent {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+  .footerContent div {
+    width: 33%;
+  }
